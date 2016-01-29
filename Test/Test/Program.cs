@@ -14,6 +14,7 @@ namespace Test
             Console.WriteLine("kkkkk");
             Console.WriteLine("ppppp");
             Console.WriteLine("qwer");
+            Console.WriteLine("test");
         }
     }
 }
