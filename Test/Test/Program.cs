@@ -23,7 +23,7 @@ namespace Test
             Console.WriteLine("pull request");
             Console.WriteLine("안녕히가세요~^0^");
             Console.WriteLine("mergeTest");
-            Console.WriteLine("conflictTest");
+            Console.WriteLine("merge");
         }
     }
 }
