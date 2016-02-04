@@ -18,7 +18,7 @@ namespace Test
             Console.WriteLine("test");
             Console.WriteLine("안녕하세요~^0^");
             Console.WriteLine("conflictTest2");
-
+            Console.WriteLine("pull request");
         }
     }
 }
