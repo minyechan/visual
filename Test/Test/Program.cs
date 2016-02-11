@@ -16,8 +16,6 @@ namespace Test
             Console.WriteLine("qwer");
             Console.WriteLine("test1111");
             Console.WriteLine("test");
-            Console.WriteLine("안녕하세요~^0^");
-
        
         }
     }
