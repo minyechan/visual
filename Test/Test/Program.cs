@@ -18,12 +18,6 @@ namespace Test
             Console.WriteLine("test");
             Console.WriteLine("안녕하세요~^0^");
             Console.WriteLine("안녕히가세요~^0^");
-            Console.WriteLine("mergeTest");
-            Console.WriteLine("conflictTest2");
-            Console.WriteLine("pull request");
-            Console.WriteLine("안녕히가세요~^0^");
-            Console.WriteLine("mergeTest");
-            Console.WriteLine("merge");
         }
     }
 }
