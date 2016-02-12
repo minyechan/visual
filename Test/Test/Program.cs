@@ -18,7 +18,6 @@ namespace Test
             Console.WriteLine("test");
             Console.WriteLine("안녕하세요~^0^");
             Console.WriteLine("안녕하세요~^0^");
-            Console.WriteLine("Hello");
         }
     }
 }
